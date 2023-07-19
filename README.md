@@ -1,0 +1,1 @@
+Exercícios de Python do primeiro período de Análise e Desenvolvimento de Sistemas.
